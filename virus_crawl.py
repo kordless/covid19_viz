@@ -1,8 +1,9 @@
 #!/usr/local/bin/python3 
 import sys
 
-f = open("virus_rna.txt", "r")
+#f = open("virus_rna.txt", "r")
 #f = open("random_rna.txt", "r")
+f = open("sars_rna.txt", "r")
 
 # strings
 # refactor this horrible mess
@@ -15,21 +16,30 @@ for one in "GCAT":
         for three in "GCAT":
             for four in "GCAT":
                 for five in "GCAT":
+                    codon = ("%s%s%s%s%s" % (one,two,three,four,five))		
+                    codons.append({'name': codon, 'count': 0})
+
+                    """
                     for six in "GCAT":
+                        codon = ("%s%s%s%s%s%s" % (one,two,three,four,five,six))		
+                        codons.append({'name': codon, 'count': 0})
+
                         for seven in "GCAT":
                             for eight in "GCAT":
                                 codon = ("%s%s%s%s%s%s%s%s" % (one,two,three,four,five,six,seven,eight))		
                                 # print(codon)
                                 codons.append({'name': codon, 'count': 0})
+                    """
 
 print("%s condons loaded" % len(codons))
-sys.exit()
-stack = "UUUUUU" # there are no Us in the virus code (shows phi relationship)
-stack = "UUUUU" # there are no Us in the virus code 
+
 stack = "UUUU" # there are no Us in the virus code 
 stack = "UUU" # there are no Us in the virus code 
-stack = "UUUUUUU" # there are no Us in the virus code (shows phi relationship)
+
 stack = "UUUUUUUU" # there are no Us in the virus code (show phi relationship)
+stack = "UUUUUUU" # there are no Us in the virus code (shows phi relationship)
+stack = "UUUUUU" # there are no Us in the virus code (shows phi relationship)
+stack = "UUUUU" # there are no Us in the virus code 
 
 while True:
     char = f.read(1)  
