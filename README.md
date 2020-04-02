@@ -37,5 +37,33 @@ Here's what random data looks like when you graph it and sort by string occuranc
 I've found some information about how DNA uses phi.
 
 Fluffy: https://www.goldennumber.net/dna/
-
 Hard: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863758/
+
+Here's stuff I found using the odd flat groupings of sequences in the 5 length words of the virus:
+
+```
+66 occurances each
+AAAAG https://www.ncbi.nlm.nih.gov/pubmed/264240
+AATTG https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5334452/
+ACATT https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5778463/
+ACTTA https://www.ncbi.nlm.nih.gov/pmc/articles/PMC323787/
+ATGCT https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2977869/
+CAATT https://www.ncbi.nlm.nih.gov/pubmed/9786894
+CTATT https://www.microbiologyresearch.org/docserver/fulltext/jgv/74/12/JV0740122539.pdf?expires=1585808280&id=id&accname=guest&checksum=568B9B26882A4A88F1355CEE1716DE5E
+TACTA https://jvi.asm.org/content/jvi/79/11/6918.full.pdf and https://www.sciencedirect.com/science/article/pii/S004268221730048X
+
+65 each
+TGCTA https://jvi.asm.org/content/jvi/84/19/10266.full.pdf
+TTGAA https://www.microbiologyresearch.org/docserver/fulltext/jgv/98/5/946_vir000758.pdf?expires=1585808671&id=id&accname=guest&checksum=2C2374257B060DA42469D9A1A838A096
+
+64 each
+AATGG https://www.nature.com/articles/s41467-018-07944-x
+TAAAG https://jvi.asm.org/content/jvi/51/3/754.full.pdf
+TAAAT https://pdf.sciencedirectassets.com/272412/1-s2.0-S0042682200X06691/1-s2.0-004268229090513Q/main.pdf
+TGACA https://www.researchgate.net/publication/6399009_Plant_lectins_are_potent_inhibitors_of_coronaviruses_by_interfering_with_two_targets_in_the_viral_replication_cycle#pf3
+TGTAG https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.0030005
+TTCAA https://link.springer.com/content/pdf/10.1007%2F978-1-4684-1280-2_6.pdf
+TTGAT https://patents.google.com/patent/CA2953677A1/en
+''''
+
+
