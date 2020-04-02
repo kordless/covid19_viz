@@ -3,7 +3,7 @@ I thought it might be interesting to visualize the code in the Covid-19 virus ba
 
 https://www.ncbi.nlm.nih.gov/nuccore/MN988668
 
-I decided to write code that first counted the number of codons of a particular length in the virus' dataset. In search, we call these words and documents. In search, a facet is a count of words appearing in a set of documents. Words being broken by a given character, like a white space.
+I decided to write code that first counted the number of codons of a particular length in the virus' dataset. In search, we call these words and documents. In search, a facet is a count of words appearing in a set of 'documents' with 'words' being broken by a given character, like a white space.
 
 ## How
 I used vim to remove all line numbers and whitespace and placed it in *covid19_rna.txt*. I then created a random file of the same length and placed it in *random_rna.txt*.
