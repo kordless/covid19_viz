@@ -34,6 +34,7 @@ Here's what random data looks like when you graph it and sort by string occuranc
 ![random data - word length is 6](https://github.com/kordless/covid19_viz/blob/master/pics/random_graph.png?raw=true)
 
 ## More Thoughts
-I've found some information about how DNA uses phi:
+I've found some information about how DNA uses phi.
 
-https://www.goldennumber.net/dna/
+Fluffy: https://www.goldennumber.net/dna/
+Hard: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863758/
