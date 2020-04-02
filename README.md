@@ -29,3 +29,8 @@ Here's the unsorted graph for codon length six (the graph for 6 ordered looks si
 Here's what random data looks like when you graph it and sort by string occurance:
 
 ![random data - word length is 6](https://github.com/kordless/covid19_viz/blob/master/pics/random_graph.png?raw=true)
+
+## More Thoughts
+I've found some information about how DNA uses phi:
+
+https://www.goldennumber.net/dna/
