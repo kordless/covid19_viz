@@ -1,9 +1,9 @@
 # Visualizing Covid-19's RNA 
-I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating and those have to be encoded in its RNA, maybe. I found the virus decoded here:
+I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating and maybe I could find them with code. To start out, I found the virus' genome decoded here:
 
 https://www.ncbi.nlm.nih.gov/nuccore/MN988668
 
-I decided to write code that first counted the number of codons of a particular length in the virus' genomic dataset. In search, we call strings words and the entire data set a document. A facet is a count of strings appearing in a set of 'documents' with 'words' being broken by a given character, like a white space.
+I wrote code that first counted the number of codons of a particular length in the virus' genomic dataset. In search, we call strings words and the entire data set a document. A facet is a count of strings appearing in a set of 'documents' with 'words' being broken by a given character, like a white space.
 
 In the case of this virus, I'm breaking the words along fixed lengths of nucleotides. I've graphed 3, 4, 5, 6, 7 and 8 character length words so far.
 
