@@ -16,7 +16,7 @@ You'll need to hack around a bit to run this. I'll work on making better later. 
 ## Graphs
 These graphs were generated from the output of the code for various codon lengths using Google Docs (spreadsheets).
 
-For codon length 5 and below, the graphs seem to show a non-smooth curve in distribution.  Please note that not all nucleotide sequences are shown in the labeling.
+For codon length 5 and below, the graphs seem to show a non-smooth curve in distribution.  Please note that not all nucleotide sequences are shown in the labeling, but the counts are all there.
 
 ![word length is 5](https://github.com/kordless/covid19_viz/blob/master/pics/virus_graph_five.png?raw=true)
 
