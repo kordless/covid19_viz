@@ -22,7 +22,7 @@ For codon length 5 and below, the graphs seem to show a non-smooth curve in dist
 
 ![word length is 5](https://github.com/kordless/covid19_viz/blob/master/pics/virus_graph_five.png?raw=true)
 
-In codon lengths 6 and above, they appear to show curves that follow a fibonacci sequence. The number of the items in each unique counts appear to be increasing in size by the golden ratio, while the counts themselves are decreasing. Again, this appears for codon lengths 6 and up.
+In codon lengths 6 and above, the genome of the virus appears to produce curves (from the counts of occurances of a given string) that follow a fibonacci sequence. The number of the items in each unique counts appear to be increasing in size by a ratio, while the counts themselves are decreasing. Again, this appears for codon lengths 6 and up.
 
 ![word length is 7](https://github.com/kordless/covid19_viz/blob/master/pics/virus_graph_seven.png?raw=true)
 ![word length is 6](https://github.com/kordless/covid19_viz/blob/master/pics/virus_graph_six.png?raw=true)
