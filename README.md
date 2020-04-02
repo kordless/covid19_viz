@@ -18,11 +18,13 @@ These graphs were generated from the output of the code for various codon length
 
 For codon length 5 and below, the graphs seem to show a non-smooth curve in distribution. 
 
-![word length is 5](https://github.com/kordless/covid19_viz/blob/master/pics/unsorted_virus_graph_six.png?raw=true)
-
 In codon lengths 6 and above, they appear to show curves that follow the golden ratio, phi. I know this because I measured the line segments and started dividing. Try it.
 
-![word length is 6](https://github.com/kordless/covid19_viz/blob/master/pics/virus_graph_six.png?raw=true)
+![word length is 7](https://github.com/kordless/covid19_viz/blob/master/pics/virus_graph_seven.png?raw=true)
+
+Here's the unsorted graph:
+
+![word length is 5](https://github.com/kordless/covid19_viz/blob/master/pics/unsorted_virus_graph_six.png?raw=true)
 
 Here's what random data looks like:
 
