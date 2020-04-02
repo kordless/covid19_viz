@@ -25,7 +25,7 @@ In codon lengths 6 and above, they appear to show curves that follow a fibonacci
 ![word length is 7](https://github.com/kordless/covid19_viz/blob/master/pics/virus_graph_seven.png?raw=true)
 ![word length is 6](https://github.com/kordless/covid19_viz/blob/master/pics/virus_graph_six.png?raw=true)
 
-Here's the unsorted graph for a codon length of 6 (the graph for 6 ordered looks similar to 7):
+Here's the unsorted graph for a codon length of 6:
 
 ![word length is 6](https://github.com/kordless/covid19_viz/blob/master/pics/unsorted_virus_graph_six.png?raw=true)
 
