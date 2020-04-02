@@ -1,5 +1,5 @@
 # Visualizing Covid-19's RNA 
-I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating and those have to be forward encoded in its RNA. I found the virus decoded here:
+I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating and those have to be forward encoded in its RNA, maybe in a loop or something. I found the virus decoded here:
 
 https://www.ncbi.nlm.nih.gov/nuccore/MN988668
 
@@ -20,6 +20,10 @@ For codon length 5 and below, the graphs seem to show a non-smooth curve in dist
 
 ![word length is 5](https://github.com/kordless/covid19_viz/blob/master/pics/unsorted_virus_graph_six.png?raw=true)
 
-In codon lengths 6 and above, they show curves that follow the golden ratio, phi.
+In codon lengths 6 and above, they appear to show curves that follow the golden ratio, phi. I know this because I measured the line segments and started dividing. Try it.
 
 ![word length is 6](https://github.com/kordless/covid19_viz/blob/master/pics/unsorted_virus_graph_six.png?raw=true)
+
+Here's what random data looks like:
+
+![random data - word length is 6](https://github.com/kordless/covid19_viz/blob/master/pics/random_graph.png?raw=true)
