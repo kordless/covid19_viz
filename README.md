@@ -1,5 +1,5 @@
 # Visualizing Covid-19's RNA 
-I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating and those have to be forward encoded in its RNA, maybe in a loop or something. I found the virus decoded here:
+I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating and those have to be encoded in its RNA, maybe. I found the virus decoded here:
 
 https://www.ncbi.nlm.nih.gov/nuccore/MN988668
 
