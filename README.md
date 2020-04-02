@@ -64,6 +64,23 @@ TGACA https://www.researchgate.net/publication/6399009_Plant_lectins_are_potent_
 TGTAG https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.0030005
 TTCAA https://link.springer.com/content/pdf/10.1007%2F978-1-4684-1280-2_6.pdf
 TTGAT https://patents.google.com/patent/CA2953677A1/en
+
+56 each
+AAACT https://patentimages.storage.googleapis.com/48/4b/34/400b8f64987e55/US7888102.pdf
+AGACA https://virologyj.biomedcentral.com/articles/10.1186/s12985-017-0747-z
+AGATG https://www.researchgate.net/publication/7225941_High_expression_level_of_soluble_SARS_spike_protein_mediated_by_adenovirus_in_HEK293_cells
+CTAAT https://patents.google.com/patent/CN1815234B/en
+CTTCT https://pdf.sciencedirectassets.com/272412/1-s2.0-S0042682200X00530/1-s2.0-S0042682200902186/main.pdf
+GAAAA https://www.researchgate.net/publication/232220254_Detection_of_a_novel_human_coronavirus_by_real-time_reverse-transcription_polymerase_chain_reaction
+GAAGA https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7087027/
+GTTAC https://jvi.asm.org/content/jvi/82/3/1465.full.pdf
+TAAAC https://en.wikipedia.org/wiki/Expression_cassette and https://jvi.asm.org/content/jvi/69/12/7851.full.pdf
+TATGT https://www.tandfonline.com/doi/pdf/10.1080/03079450120066368
+TCAAA https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4763971/
+TGATT sciencedirect.com/science/article/pii/S0042682208005230 (ACE2 warning)
+TGTCT https://www.microbiologyresearch.org/docserver/fulltext/jgv/68/10/JV0680102639.pdf
+TTTGA https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6178081/
+
 ''''
 
 
