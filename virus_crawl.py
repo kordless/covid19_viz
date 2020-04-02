@@ -1,13 +1,13 @@
 #!/usr/local/bin/python3 
 import sys
 
-f = open("fucking_virus_rna.txt", "r")
-#f = open("fucking_random_rna.txt", "r")
+f = open("virus_rna.txt", "r")
+#f = open("random_rna.txt", "r")
 
 # strings
 # refactor this horrible mess
 # function(codon_length=6)
-# {'CATCAT': 42} use codon as key and store facet under it for faster scans
+# TODO {'CATCAT': 42} use codon as key and store facet under it for faster scans
 # GCAT
 codons=[]
 for one in "GCAT":
