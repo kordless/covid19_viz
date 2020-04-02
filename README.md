@@ -8,7 +8,7 @@ I decided to write code that first counted the number of codons of a particular 
 ## How
 I used vim to remove all line numbers and whitespace and placed it in *covid19_rna.txt*. I then created a random file of the same length and placed it in *random_rna.txt*.
 
-I used a variety of word lengths, I'll call them *codons* here. Codon lengths of 5, 4 and 3 result in graphs that I consider to be regular in nature, but not necessarly odd. Codon lengths of 6, 7 and 8 result in distribution graphs which appear to follow the golden ratio (phi).
+I used a variety of word lengths, I'll call them *codons* here. Codon lengths of 5, 4 and 3 result in graphs that I consider to be regular (ordered) in nature, but not necessarly odd looking. Codon lengths of 6, 7 and 8 result in distribution graphs which appear to follow the golden ratio (phi). My code needs to be refactored to do longer sequences.
 
 ## Running
 You'll need to hack around a bit to run this. I'll work on making better later. For now you can see the output in the output folder.
