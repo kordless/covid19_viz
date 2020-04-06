@@ -1,16 +1,20 @@
 # Visualizing Covid-19's RNA 
-I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating and maybe I could find them with code. To start out, I found the virus' genome decoded here:
+I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating to try to fool immune systemss. I found the virus' genome decoded here:
 
 https://www.ncbi.nlm.nih.gov/nuccore/MN988668
 
-I wrote code that first counted the number of codons of a particular length in the virus' genomic dataset. In search, we call strings words and the entire data set a document. A facet is a count of strings appearing in a set of 'documents' with 'words' being broken by a given character, like a white space.
+I wrote code to count the number of codons of a particular length in the virus' genomic dataset. In search, we call such strings "words" and the data set a "document". A "facet" is a count of strings appearing in a set of documents with words being broken by a given character, like a white space.
 
-In the case of this virus, I'm breaking the words along fixed lengths of nucleotides. I've graphed 3, 4, 5, 6, 7 and 8 character length words so far.
+In the case of this virus, I'm breaking the words along fixed lengths of nucleotides with a sliding frame that increments by 1 as it slides. I've graphed various length words, some of which appear below.
 
 ## How
-I used vim to remove all line numbers and whitespace and placed it in *covid19_rna.txt*. I then created a random file of the same length and placed it in *random_rna.txt*.
+I used vim to remove all line numbers and whitespace and placed it in *covid19_rna.txt*. I then created a random file of the same length and placed it in *random_rna.txt*. I also dumped the code for SARS.
 
-I used a variety of word lengths, I'll call them *codons* here. Codon lengths of 5, 4 and 3 result in graphs that I consider to be regular (ordered) in nature, but not necessarly odd looking. Codon lengths of 6, 7 and 8 result in distribution graphs which appear to follow the golden ratio (phi). My code needs to be refactored to do longer sequences.
+I use a variety of word lengths, I'll call them *codons* here. Codon lengths of 5, 4 and 3 result in graphs that I consider to be regular (ordered) in nature, but not necessarly odd looking. The expecation would be to see some codons have more popularity than others, such as words like "the" and "and" appear more frequently in text.
+
+However, when I run with codon lengths of 6, 7 and 8 this results in distribution graphs which appear to follow the golden ratio (phi). When the codons are sorted by count occurance, it becomes obvious that there are groups of codons which share a similar count of occurance in the genomes of Covid-19 and SARS, and which decrease over the entire data set by something that appears to be related to a numerical sequence. 
+
+When graphing random numbers, this sequencing is not observed. I intend to graph other ordered document (such as text and software code) to see if my code is somehow introducing the sequence.
 
 ## Running
 You'll need to hack around a bit to run this. I'll work on making better later. For now you can see the output in the output folder.
