@@ -14,6 +14,8 @@ I use a variety of word lengths, I'll call them *codons* here. Codon lengths of 
 
 However, when I run with codon lengths of 6, 7 and 8 this results in distribution graphs which appear to follow the golden ratio (phi). When the codons are sorted by count occurance, it becomes obvious that there are groups of codons which share a similar count of occurance in the genomes of Covid-19 and SARS, and which decrease over the entire data set by something that appears to be related to a numerical sequence. 
 
+At this time I'm assuming this graph might be a result in frames of a given size sliding by 1, instead of the frame length, as we would do with normal word breaking in search.
+
 When graphing random numbers, this sequencing is not observed. I intend to graph other ordered document (such as text and software code) to see if my code is somehow introducing the sequence.
 
 ## Running
