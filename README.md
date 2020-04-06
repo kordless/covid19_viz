@@ -42,8 +42,9 @@ Here's what random data looks like when you graph it and sort by string occuranc
 ## More Thoughts
 I've found some information about how DNA uses phi.
 
-Fluffy: https://www.goldennumber.net/dna/
-Hard: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863758/
+https://www.goldennumber.net/dna/ (a bit fluffy)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863758/
+https://www.researchgate.net/publication/339331507_Wuhan_nCoV-2019_SARS_Coronaviruses_Genomics_Fractal_Metastructures_Evolution_and_Origins
 
 Here's stuff I found using the odd flat groupings of sequences in the 5 length words of the virus:
 
