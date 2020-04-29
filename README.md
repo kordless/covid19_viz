@@ -1,5 +1,5 @@
 # Visualizing Covid-19's RNA 
-I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating to try to fool immune systemss. I found the virus' genome decoded here:
+I thought it might be interesting to visualize the code in the Covid-19 virus based on the fact it has sugar proteins stitched into it's outer coating to try to fool immune systems. I found the virus' genome decoded here:
 
 https://www.ncbi.nlm.nih.gov/nuccore/MN988668
 
